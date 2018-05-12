@@ -1,0 +1,30 @@
+_repo: Het-land-der-Bagas-en-de-Rio-Nu-ez--13-De-Aarde-en-haar-Volken-1887_16117
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coffinières de Nordeck, Grégoire-Gaspard-Félix
+    aliases:
+    - Nordeck, Grégoire-Gaspard-Félix Coffinières de
+    - Coffinieres de Nordeck, Gregoire-Gaspard-Felix
+    birthdate: 1811
+    deathdate: 1887
+    gutenberg_agent_id: '6493'
+    url: http://www.gutenberg.org/2009/agents/6493
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2005-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16117'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa -- Description and travel'
+- !lcc 'DT'
+title: "Het land der Bagas en de Rio-Nuñez\r\nDe Aarde en haar Volken, 1887"
+url: http://www.gutenberg.org/ebooks/16117
